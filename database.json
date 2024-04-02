@@ -1,0 +1,13 @@
+{
+    "logged_in": "",
+    "users": {
+        "admin": {
+            "name": "admin",
+            "password": "admin"
+        },
+        "as": {
+            "name": "as",
+            "password": "aaa"
+        }
+    }
+}
